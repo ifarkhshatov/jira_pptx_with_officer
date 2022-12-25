@@ -1,13 +1,6 @@
----
-title: "Use jira API and build reports as PowerPoint Presentation"
-author: "Ildar Farkhshatov"
-date: "`r Sys.Date()`"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# "Use jira API and build reports as PowerPoint Presentation"
+author: "Ildar Farkhshatov"
 
 ## Set up jira api
 
